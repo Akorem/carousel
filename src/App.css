@@ -3,7 +3,7 @@
   padding: 0;
 }
 
-.App {
+/* .App {
   width: 100vw;
   height: 100vh;
   display: flex;
@@ -11,7 +11,7 @@
   align-items: center;
   justify-content: center;
   background-color: grey;
-}
+} */
 
 .carousel{
   width: 38%;
@@ -55,4 +55,18 @@
   place-items: center;
   color: white;
   cursor: pointer;
+}
+.move{
+  padding: 10px 16px;
+  margin: 20px 0;
+  border-bottom: 1px solid red;
+  background-color: black;
+  width: 50%;
+  margin: auto;
+  margin-top: 20px;
+}
+
+.move h2{
+  font-size: 20px;
+  color: wheat;
 }
